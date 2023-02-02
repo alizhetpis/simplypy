@@ -21,6 +21,5 @@ elif student_course >= 1:
 else:
     print("Student is not enrolled")
 
-# This is how Git works!
-# New commit on Git
-# Another commit on Git
+
+#This comment for Git repo
